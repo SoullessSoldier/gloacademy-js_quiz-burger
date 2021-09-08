@@ -16,7 +16,7 @@ https://learn.javascript.ru/introduction-browser-events
 
 Шаблонные строки
 https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/template_strings
----
+
 ###
 ОБЯЗАТЕЛЬНОЕ ЗАДАНИЕ
 — Повторить за уроком
@@ -24,6 +24,7 @@ https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/template_strings
 – Занести название бургера и путь к картинке (значение атрибута src в тэге <img> ) в переменные в виде строк(2 отдельные переменные).
 Вывести эти данные на страницу в шаблоне HTML в виде переменных (через интерполяцию)
 
+---
 
 ## ✔ 2 День
 — Познакомимся с методами перебора массивов
