@@ -32,6 +32,7 @@ https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/template_strings
 #### Полезные ссылки
 Циклы
 https://learn.javascript.ru/while-for#tsikl-while
+
 Условия
 https://learn.javascript.ru/ifelse
 
