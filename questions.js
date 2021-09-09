@@ -93,4 +93,5 @@ const inputs = [...formAnswers.elements]
 inputs.forEach((elem, index) => {
     obj[`${index}_${questions[numberQuestion].question}`] = elem.value;
 })
-finalAnswers.push(obj)
+finalAnswers.push(obj);
+
