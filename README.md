@@ -29,7 +29,18 @@ https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/template_strings
 ### ✔ 2 День
 — Познакомимся с методами перебора массивов
 — Займемся динамическим выводом вопросов и ответами на них
+#### Полезные ссылки
+Циклы
+https://learn.javascript.ru/while-for#tsikl-while
+Условия
+https://learn.javascript.ru/ifelse
 
+#### ОБЯЗАТЕЛЬНОЕ ЗАДАНИЕ
+1. Изучить тему Циклы
+2. Изучить тему Условия
+3. Реализовать следующий функционал:
+- Если numberQuestion = 0 скрывать кнопку Prev и показывать ее если numberQuestion > 0
+- Если numberQuestion  = длине нашего объекта минус 1 (questions.length - 1) скрывать кнопку Next
 ---
 
 ### ✔ 3 День
